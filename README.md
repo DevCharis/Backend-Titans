@@ -1,6 +1,4 @@
 # Backend-Titans
-Certainly! Here's a sample README file for your phone number validation project:
-
 ---
 
 # Phone Number Validation
